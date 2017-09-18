@@ -1,6 +1,8 @@
-# form-serialize [![Build Status](https://travis-ci.org/defunctzombie/form-serialize.png?branch=master)](https://travis-ci.org/defunctzombie/form-serialize)
+# jrs-form-serialize 
 
 serialize form fields to submit a form over ajax
+
+Forked to work with unpkg.com to provide umd bundle.
 
 ## install
 
